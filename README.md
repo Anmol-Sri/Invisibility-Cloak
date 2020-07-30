@@ -29,7 +29,7 @@ This project aims to emulate an invisibility cloak like in Harry Potter.
 pip install -r preinstall.txt
 ```
 
-##Procedure : 
+## Procedure : 
 
 ### All you need is a red colored cloth and main.py file.
 
