@@ -16,6 +16,7 @@ This project aims to emulate an invisibility cloak like in Harry Potter.
 #### Setup/Requirements
 
 > The code is written in Python (`Python3`)
+
 #### Dependencies
 > - OpenCV
 > - numpy
@@ -23,6 +24,7 @@ This project aims to emulate an invisibility cloak like in Harry Potter.
 ---
 
 #### Note: Run this before you start
+
 ```python
 pip install -r preinstall.txt
 ```
