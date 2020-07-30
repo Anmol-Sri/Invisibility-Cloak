@@ -16,20 +16,20 @@ This project aims to emulate an invisibility cloak like in Harry Potter.
 #### Setup/Requirements
 
 > The code is written in Python (`Python3`)
-> Dependencies
+#### Dependencies
 > - OpenCV
 > - numpy
 > - time
 ---
 
-> Note: Run this before you start
+#### Note: Run this before you start
 ```python
 pip install -r preinstall.txt
 ```
 
 ##Procedure : 
 
-### All you need is a red colored cloth and invi.py file.
+### All you need is a red colored cloth and main.py file.
 
 ## How does it work ?
 The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground!
